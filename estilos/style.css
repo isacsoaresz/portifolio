@@ -30,11 +30,11 @@ body{
 
 .cabecalho-menu{
     display: flex;
-    gap: 80px;
+    gap: 45px;
 }
 
 .cabecalho-menu-texto{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600px;
     color: var(--corterciaria);
