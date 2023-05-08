@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://prnt.sc/TQr4foyhshxW)
+![image](assets/github.png)
 
 ## Ferramentas utilizadas:
 
